@@ -9,7 +9,7 @@ const projects = [
     category: "Creator Economy SaaS",
     tools: "Next.js 14, Tailwind CSS, PostgreSQL, Prisma, NextAuth",
     image: "/images/collabflow.png",
-    link: "https://vercel.com/kunall1s-projects/collabflow2",
+    link: "https://collabflow2.vercel.app/",
   },
   {
     title: "SalesCRM",
