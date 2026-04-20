@@ -5,6 +5,20 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
+    title: "CollabFlow",
+    category: "Creator Economy SaaS",
+    tools: "Next.js 14, Tailwind CSS, PostgreSQL, Prisma, NextAuth",
+    image: "/images/collabflow.png",
+    link: "https://vercel.com/kunall1s-projects/collabflow2",
+  },
+  {
+    title: "SalesCRM",
+    category: "Sales Pipeline Dashboard",
+    tools: "Next.js, React, Tailwind CSS, Recharts, Prisma",
+    image: "/images/salescrm.png",
+    link: "https://vercel.com/kunall1s-projects/sales-crm",
+  },
+  {
     title: "Crop Disease Detection",
     category: "AI / Deep Learning Product",
     tools: "Python, TensorFlow, CNN, Image Classification",
