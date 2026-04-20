@@ -16,7 +16,7 @@ const projects = [
     category: "Sales Pipeline Dashboard",
     tools: "Next.js, React, Tailwind CSS, Recharts, Prisma",
     image: "/images/salescrm.png",
-    link: "https://vercel.com/kunall1s-projects/sales-crm",
+    link: "https://sales-crm-eight-kohl.vercel.app/dashboard",
   },
   {
     title: "Crop Disease Detection",
